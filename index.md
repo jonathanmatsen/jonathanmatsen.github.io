@@ -6,21 +6,21 @@
 
 ## My Skills: 
 
-`_Technical:_` 
+#### Technical: 
 - SQL | NoSQL
 - Python | Pandas/NumPy/SciPy/Matplotlib
 - Jupyter Notebook
 - Tableau
 - Excel | Access | PowerPoint
   
-`_Analytics:_` 
+#### Analytics: 
 - Data Cleaning | Data Modeling 
 - Dashboards | KPIs 
 - Queries
 - Predictive Analytics
 - Pattern & Trend Identification
 
-`_Statistics:_` 
+#### Statistics:` 
 - Probabilities
 - Sampling
 - Variability
@@ -28,7 +28,7 @@
 - Regression
 - Time Series Analysis
 
-`_Data Management:_` 
+#### Data Management:` 
 - Documentation
 - Data Quality Assessment
 - ETL
