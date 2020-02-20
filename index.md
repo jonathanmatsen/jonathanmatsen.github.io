@@ -5,15 +5,20 @@ _Creative numbers geek who enjoys analytics, collaboration, and managing project
 ### My Skills 
 
 ##### Technical: 
-- SQL | NoSQL
-- Python | Pandas/NumPy/SciPy/Matplotlib
+- SQL
+- NoSQL
+- Python 
+- Pandas/NumPy/SciPy/Matplotlib
 - Jupyter Notebook
 - Tableau
-- Excel | Access | PowerPoint
-  
+- Excel
+- Access
+ 
 ##### Analytics: 
-- Data Cleaning | Data Modeling 
-- Dashboards | KPIs 
+- Data Cleaning 
+- Data Modeling 
+- Dashboards 
+- KPIs 
 - Queries
 - Predictive Analytics
 - Pattern & Trend Identification
@@ -26,7 +31,7 @@ _Creative numbers geek who enjoys analytics, collaboration, and managing project
 - Regression
 - Time Series Analysis
 
-#### Data Management: 
+##### Data Management: 
 - Documentation
 - Data Quality Assessment
 - ETL
