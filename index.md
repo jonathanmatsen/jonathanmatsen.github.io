@@ -1,26 +1,24 @@
 ## About Me:
 
-`Creative numbers geek who enjoys analytics, collaboration, and managing projects. Fascinated by digital transformation, the untapped potential of ever-expanding data streams, and what it all means for the future. Earned 3 Bachelor’s degrees simultaneously: Finance, Marketing, and French. 3 years’ experience. Fluent in French.`
+_Creative numbers geek who enjoys analytics, collaboration, and managing projects. Fascinated by digital transformation, the untapped potential of ever-expanding data streams, and what it all means for the future. Earned 3 Bachelor’s degrees simultaneously: Finance, Marketing, and French. 3 years’ experience. Fluent in French._
 
+### My Skills 
 
-
-## My Skills: 
-
-#### Technical: 
+##### Technical: 
 - SQL | NoSQL
 - Python | Pandas/NumPy/SciPy/Matplotlib
 - Jupyter Notebook
 - Tableau
 - Excel | Access | PowerPoint
   
-#### Analytics: 
+##### Analytics: 
 - Data Cleaning | Data Modeling 
 - Dashboards | KPIs 
 - Queries
 - Predictive Analytics
 - Pattern & Trend Identification
 
-#### Statistics:` 
+##### Statistics: 
 - Probabilities
 - Sampling
 - Variability
@@ -28,7 +26,7 @@
 - Regression
 - Time Series Analysis
 
-#### Data Management:` 
+#### Data Management: 
 - Documentation
 - Data Quality Assessment
 - ETL
