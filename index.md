@@ -40,7 +40,7 @@ _Creative numbers geek who enjoys analytics, collaboration, and managing project
 
 ## Connect with Me:
 
-#### | [LinkedIn](https://www.linkedin.com/in/jonathanmatsen/) | [Twitter](https://twitter.com/jonathanmatsen) | 
+#### | [LinkedIn](https://www.linkedin.com/in/jonathanmatsen/) | [Twitter](https://twitter.com/jonathanmatsen) | [Medium](https://medium.com/@jonathanmatsen)
 
 
 
