@@ -12,4 +12,6 @@
 
 •	_Data Management:_ Documentation, Data Quality Assessment, ETL, AWS Fundamentals, Database Functions
 
+### | [LinkedIn](https://www.linkedin.com/in/jonathanmatsen/) | 
+
 
