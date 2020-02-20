@@ -6,20 +6,34 @@
 
 ## My Skills: 
 
-•	`_Technical:_` 
-
-  SQL | NoSQL
-  Python | Pandas/NumPy/SciPy/Matplotlib
-  Jupyter Notebook
-  Tableau
-  Excel | Access | PowerPoint
+`_Technical:_` 
+- SQL | NoSQL
+- Python | Pandas/NumPy/SciPy/Matplotlib
+- Jupyter Notebook
+- Tableau
+- Excel | Access | PowerPoint
   
-•	`_Analytics:_` 
-  Data Modeling Queries, Predictive Analytics, Pattern & Trend Identification, Dashboards, KPIs, 
+`_Analytics:_` 
+- Data Cleaning | Data Modeling 
+- Dashboards | KPIs 
+- Queries
+- Predictive Analytics
+- Pattern & Trend Identification
 
-•	`_Statistics:_` Probabilities, Sampling, Variability, Significance Testing, Regression, Time Series Analysis
+`_Statistics:_` 
+- Probabilities
+- Sampling
+- Variability
+- Significance Testing
+- Regression
+- Time Series Analysis
 
-•	`_Data Management:_` Documentation, Data Quality Assessment, ETL, AWS Fundamentals, Database Functions
+`_Data Management:_` 
+- Documentation
+- Data Quality Assessment
+- ETL
+- Database Functions
+- AWS Fundamentals
 
 ## Connect with Me:
 
