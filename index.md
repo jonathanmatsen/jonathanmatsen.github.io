@@ -2,7 +2,7 @@
 
 _Creative numbers geek who enjoys analytics, collaboration, and managing projects. Fascinated by digital transformation, the untapped potential of ever-expanding data streams, and what it all means for the future. Earned 3 Bachelor’s degrees simultaneously: Finance, Marketing, and French. 3 years’ experience. Fluent in French._ 
 
-| [Resume](https://1drv.ms/w/s!Ao-WhwTvbd-qzCavGNoU0gxuBobf?e=MDs6xF) | [LinkedIn](https://www.linkedin.com/in/jonathanmatsen/) | [Tableau Public] (https://public.tableau.com/profile/jonathan.matsen#!/) | [Twitter](https://twitter.com/jonathanmatsen) | [Medium](https://medium.com/@jonathanmatsen) | 
+| [Resume](https://1drv.ms/w/s!Ao-WhwTvbd-qzCavGNoU0gxuBobf?e=MDs6xF) | [LinkedIn](https://www.linkedin.com/in/jonathanmatsen/) | [Tableau Public](https://public.tableau.com/profile/jonathan.matsen#!/) | [Twitter](https://twitter.com/jonathanmatsen) | [Medium](https://medium.com/@jonathanmatsen) | 
 
 
 ### My Skills 
